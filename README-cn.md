@@ -54,7 +54,7 @@
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且美观的操作体验。 ![Freeware][Freeware Icon]
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - 可以将您的CD里的文件以任意格式转到您的电脑, 同时兼具一些优秀的特色功能。
-- [Foobar2000](http://www.foobar2000.org/) - Windows版的免费音频播放器，支持各种音频格式，并且有很多很酷的特色功能。
+- ~~[Foobar2000](http://www.foobar2000.org/) - Windows版的免费音频播放器，支持各种音频格式，并且有很多很酷的特色功能。~~
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - 包含 DirectShow 过滤器，VFW/ACM 编解码器和一些其他工具的集合包。![Freeware][Freeware Icon]
 - [Kodi](https://kodi.tv/) -免费且开放的家庭影院软件。
 - [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你现场混音所需的一切功能，真正可替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
@@ -79,7 +79,7 @@
 - [Waow](http://dedg3.com/wao/) - 卓越的 WhatsApp Web 客户端，为您提供最好的WhatsApp的体验。 ![Freeware][Freeware Icon]
 
 ### 压缩
-- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon]
+- ~~[7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon]~~
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。 ![Freeware][Freeware Icon]
 - [PeaZip](http://www.peazip.org/) - 归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。 ![Freeware][Freeware Icon]
 - [Riot](http://luci.criosweb.ro/riot/) -通过文件大小或许多其他图像属性压缩图像。 ![Freeware][Freeware Icon]
@@ -92,7 +92,7 @@
 - [Clover](http://en.ejie.me/) - 将多选项卡功能添加到Windows资源管理器。![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - 从系统托盘按应用程序控制音量。[![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][Freeware Icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - 通过选项卡和其他文件夹视图扩展资源管理器。 ![Freeware][Freeware Icon]
-- [Rainmeter](https://www.rainmeter.net/) - Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器。 [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
+- ~~[Rainmeter](https://www.rainmeter.net/) - Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器。 [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]~~
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - 一个小型程序，将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎。 [![Open-Source Software][OSS Icon]](https://github.com/spikespaz/search-deflector) ![Freeware][Freeware Icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - 使Windows任务栏透明。[![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - 使您可以更改Windows 10登录屏幕背景。  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
@@ -168,7 +168,7 @@
 
 ### 电子书实用程序
 - [Bookviser](http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f)-Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ![Freeware][Freeware Icon]
-- [Calibre](http://calibre-ebook.com/)-用于电子书管理和转换的强大软件。 [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved)![Freeware][Freeware Icon]
+- ~~[Calibre](http://calibre-ebook.com/)-用于电子书管理和转换的强大软件。 [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved)![Freeware][Freeware Icon]~~
 - [kobo](https://www.kobo.com/desktop)-用于电子书管理和转换的极其丑陋但功能强大的软件。 ![Freeware][Freeware Icon]
 
 ### 电子邮件
@@ -186,7 +186,7 @@
 - [GOG Galaxy](https://www.gog.com/galaxy) - 类似Steam的DRM-free游戏平台。
 - [Itch.io](https://itch.io/app/) - 安装，更新，并畅玩独立游戏 [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 - [Origin](https://www.origin.com/en-in/store/) - 类似Steam 但属于 EA 公司。
-- [Steam](http://store.steampowered.com/) -  最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。 我想你早就知道了。
+- ~~[Steam](http://store.steampowered.com/) -  最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。 我想你早就知道了。~~
 - [Godot](https://github.com/godotengine/godot) - 开源游戏引擎。 入门简单且包含大量中文教程。[![Open-Source Software][OSS Icon]](https://github.com/godotengine/godot)
 - [Unity](https://unity3d.com/) - 免费游戏引擎。 入门简单且包含大量教程。
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - 另一个免费游戏引擎。 更容易入门且包含大量教程，但如果你基于此引擎制作的游戏盈利， 你需支付给 Unreal 5%的盈利作为使用费。
@@ -206,7 +206,7 @@
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - 具有即时反馈和显示代码中数据值的可定制的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 - [Neovim](https://neovim.io/) - vim真正的继任者。
-- [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
+- ~~[Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]~~
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - 用于替代默认文本编辑器的轻量快速的编辑器，拥有众多有用的功能。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
 - [Visual Studio Code](https://code.visualstudio.com/) - 用于构建和调试现代Web和云应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
@@ -242,12 +242,12 @@
 
 ### 生产力工具
 - [AutoHotkey](https://autohotkey.com/) - Windows平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
-- [Chocolatey](https://chocolatey.org/) - Windows的包管理器。
+- ~~[Chocolatey](https://chocolatey.org/) - Windows的包管理器。~~
 - [Cold Turkey](https://getcoldturkey.com) - 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - Windows命令行程序运行监控系统托盘管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][Freeware Icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器。
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - 应用程序之间快速切换。
-- [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
+- ~~[Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。~~
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记应用程序。
 - [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。 ![Freeware][Freeware Icon]
@@ -257,11 +257,11 @@
 - [MultiCommander](http://multicommander.com/) - 为专业用户提供的文件管理器。 ![Freeware][Freeware Icon]
 - [Ninite](https://ninite.com/) - 最简单，最快速的更新或安装软件的方式。 ![Freeware][Freeware Icon]
 - [One Commander](http://onecommander.com/) - 多面板的文件管理器。 ![Freeware][Freeware Icon]
-- [Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
+- ~~[Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]]~~(https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - 基于云同步的简单跨平台笔记应用程序。 ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
+- ~~[Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  ~~
 [xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
 
 
@@ -327,8 +327,8 @@
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - DirectShow过滤器，VFW / ACM 编解码器和工具的集合。
 - [mpv](http://mpv.io/) -媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [Open Broadcaster Software](https://obsproject.com/) - 免费开源的视频录制和流媒体播放软件。 [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
-- [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
-- [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- ~~[PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。~~
+- ~~[ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]~~
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - 多媒体播放器，可针对不同视频保存不同的配置。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc)
 
@@ -367,9 +367,6 @@
 * [Windows 10纯净安装（How to do a Clean Install of Windows 10, the Easy Way）](http://www.howtogeek.com/224342/how-to-clean-install-windows-10/), 2016/01/13, 英文。
 * [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Windows 10 / Windows Server 2016重新安装后进行一些初始设置的Powershell脚本。
 
-### Windows 8 设置
-
-* ~~http://windows.microsoft.com/en-IN/windows-8/clean-install~~ 已失效，跳转到其他页面。
 
 
 ## 杂项
