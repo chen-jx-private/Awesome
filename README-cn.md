@@ -94,7 +94,7 @@
 - [QTTabBar](http://qttabbar.wikidot.com/) - 通过选项卡和其他文件夹视图扩展资源管理器。 ![Freeware][Freeware Icon]
 - ~~[Rainmeter](https://www.rainmeter.net/) - Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器。 [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]~~
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - 一个小型程序，将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎。 [![Open-Source Software][OSS Icon]](https://github.com/spikespaz/search-deflector) ![Freeware][Freeware Icon]
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - 使Windows任务栏透明。[![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
+- ~~[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - 使Windows任务栏透明。[![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]~~
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - 使您可以更改Windows 10登录屏幕背景。  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - 如果使用多个监视器，则可以在每个监视器上显示单独的任务栏。
 
@@ -159,7 +159,7 @@
 
 - [FreeOffice](http://www.freeoffice.com/en/)-FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 ![Freeware][Freeware Icon]
 - [LibreOffice](https://www.libreoffice.org/)-开源办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)![Freeware][Freeware Icon]
-- [Microsoft Office](http://www.office.com)-微软自己的生产力套件。
+- ~~[Microsoft Office](http://www.office.com)-微软自己的生产力套件。~~
 - [NitroPDF](https://www.gonitro.com/pdf-reader)-您将获得的最佳PDF阅读器。
 - [OnlyOffice](https://www.onlyoffice.com/)-最完整，功能最丰富的办公和生产力套件。 ![Freeware][Freeware Icon]
 - [OpenOffice](https://www.openoffice.org/)-用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html)![Freeware][Freeware Icon]
@@ -226,14 +226,13 @@
 - [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrain出品的JavaScipt开发平台。
 
 ### 在线存储
-- *[百度网盘](https://pan.baidu.com/)*，其他类似还有腾讯微云，坚果云等。
+- ~~[百度网盘](https://pan.baidu.com/)，其他类似还有腾讯微云，坚果云等。~~
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - 能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
 - [Dropbox](https://www.dropbox.com/install) -简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
 - [Google Drive](https://www.google.com/drive/download/) - 深深融入Google生态系统的云存储解决方案。
 - [Hubic](https://hubic.com/en/) - 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - 为Windows用户提供最佳云存储解决方案，原先叫SkyDrive。
-- [百度网盘](https://pan.baidu.com/) - 中国垄断在线存储
 
 ### 备份
 - [Arq](https://www.arqbackup.com/) - 备份文件到你自己的云账户中（Amazon Cloud Drive，AWS，Dropbox，Google Drive，Google Cloud Storage，OneDrive，和SFTP）。
@@ -262,7 +261,6 @@
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
 - ~~[Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  ~~
-[xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
 
 
 ### 终端
@@ -337,7 +335,7 @@
 - *[AIDA64](https://www.aida64.com/)* - 查看系统信息，支持手机。
 - *[CCleaner](https://www.piriform.com/ccleaner)* - 用于 PC 优化和清洁。
 - *[CrystalDiskMark](https://crystalmark.info/?lang=en)* - 硬盘信息，日文版和英文版。
-- *[Geek Uninstaller](https://geekuninstaller.com/)* - 软件卸载工具，有收费的Pro版本。 类似软件：Iobit Uninstaller, Crystalidea uninstall-tool, Revo Uninstaller Pro。
+- ~~[Geek Uninstaller](https://geekuninstaller.com/) - 软件卸载工具，有收费的Pro版本。 类似软件：Iobit Uninstaller, Crystalidea uninstall-tool, Revo Uninstaller Pro。~~
 - *[SUMo(Software Updates Monitor)](https://www.kcsoftwares.com/?sumo)* - 用于软件更新，有免费版本。
 - *[SysGauge](http://www.sysgauge.com/)* - 系统监视器
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - 一款本地 DNS 代理软件，它缓存了 DNS 服务器的内容，并根据用户定制的 HOSTS 文件过滤你不想要的广告。 ![Freeware][Freeware Icon]
